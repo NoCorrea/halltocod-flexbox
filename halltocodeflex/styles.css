@@ -1,0 +1,30 @@
+.box {
+    background-color: #6FCF97;
+    width: 751px;
+    height: 489px;
+    display: flex;
+    justify-content: column;
+    align-items: center;
+    padding: 200px
+
+}
+.internal-box {
+    width: 293px;
+    height: 116px;
+    display: flex;
+    flex-direction: column;
+    padding: 198px;
+}
+
+.internal-box1{
+    font-size: 48px;
+    color: blue;
+    background-color: blueviolet;
+}
+.internal-box2{
+    font-size: 48px;
+    margin-top: 10px; 
+    padding: 10px;   
+    color: aqua;
+    background-color: crimson;
+}
